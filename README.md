@@ -3,7 +3,6 @@
 
 Currently working on a food delivery application utilizing **distributed systems**.
 
-## Other projects
 
 
 
